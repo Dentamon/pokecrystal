@@ -1,5 +1,6 @@
 # Pokémon Crystal [![Build Status][ci-badge]][ci]
 
+[![Run on Repl.it](https://replit.com/badge/github/Dentamon/pokecrystal)](https://replit.com/new/github/Dentamon/pokecrystal)
 This is a disassembly of Pokémon Crystal.
 
 It builds the following ROMs:
